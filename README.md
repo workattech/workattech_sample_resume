@@ -1,7 +1,7 @@
 # workattech sample resume
 
 ## Introduction
-This is [Gaurav Chandak](https://www.linkedin.com/in/gcnit)'s resume before he joined Flipkart (Jun '19). The resume follows Gayle McDowell's careercup resume format.
+This is [Gaurav Chandak](https://www.linkedin.com/in/gcnit)'s resume before he joined Flipkart (Jun '19). The resume follows Gayle Laakmann McDowell's careercup resume format.
 
 The contents of this resume are based on [Resume best practices for product-based companies](https://workat.tech/general/article/resume-cv-best-practices-klsvikpz8nd6).
 
@@ -17,7 +17,7 @@ The contents of this resume are based on [Resume best practices for product-base
 - A one-month winter internship was removed after 1st job. Both the internships were also extremely compressed after that.
 - Details about the 1st job was compressed after 2nd job.
 
-## What will happen if the resume is to be updated now?
+## What changes will be done if the resume is to be updated now?
 - Both the internships will either become one-liners or will be completely removed.
 - Most of the points from additional activities will also go away.
 - CGPA will be removed.
