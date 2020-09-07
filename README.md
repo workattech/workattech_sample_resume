@@ -13,9 +13,9 @@ The contents of this resume are based on [Resume best practices for product-base
 ## How has this resume evolved?
 - Gaurav's resume has always been a full one page since 2nd year in college.
 - As new things got added, the older ones got compressed and the least relevant ones got removed.
-- Before the internships, the activities part was bigger and some small projects were part of the resume. Almost all of them was removed after the first internship.
-- A one-month winter internship was removed after 1st job. Both the internships were also extremely compressed after that.
-- Details about the 1st job was compressed after 2nd job.
+- Before the internships, the activities part was bigger and some small projects were part of the resume. Almost all of them were removed after the first internship.
+- A one-month winter internship was removed after the 1st job. Both the internships were also extremely compressed after that.
+- Details about the 1st job was compressed after the 2nd job.
 
 ## What changes will be done if the resume is to be updated now?
 - Both the internships will either become one-liners or will be completely removed.
