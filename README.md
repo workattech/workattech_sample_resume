@@ -6,9 +6,9 @@ This is [Gaurav Chandak](https://www.linkedin.com/in/gcnit)'s resume before he j
 The contents of this resume are based on [Resume best practices for product-based companies](https://workat.tech/general/article/resume-cv-best-practices-klsvikpz8nd6).
 
 ## How to use this template?
-- Please view the PDF version first to get an idea on how a good resume should look like.
+- Please view [the PDF](https://github.com/workattech/workattech_sample_resume/blob/master/Gaurav_Chandak.pdf) version first to get an idea on how a good resume should look like.
 - Star and Fork this repository.
-- Download the docx file and edit it on Word/Google Docs to make your own resume.
+- Download [the docx file](https://github.com/workattech/workattech_sample_resume/blob/master/Gaurav_Chandak.docx) and edit it on Google Docs/Word to make your own resume.
 
 ## How has this resume evolved?
 - Gaurav's resume has always been a full one page since 2nd year in college.
